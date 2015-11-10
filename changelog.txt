@@ -85,5 +85,5 @@ Changes in version 1.0.2 (2014-06-09)
 Changes in version 1.0.1 (2014-05-06)
 -------------------------------------
 
-*removed dependency jackson-dataformat-xml
+*removed dependency jackson-dataformat-xml 
 
